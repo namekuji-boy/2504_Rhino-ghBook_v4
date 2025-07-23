@@ -1,3 +1,11 @@
+# MIT License
+# Copyright (c) 2025 KOMOIKE Takuma
+# Website: https://bourbakidesign.com
+# Email: info@bourbakidesign.com
+#
+# This file is distributed under the terms of the MIT license.
+# See the LICENSE file in the project root for full license information.
+
 #venv: site-packages
 import os
 import subprocess
