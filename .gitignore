@@ -1,0 +1,12 @@
+# python関連ファイル
+__pycache__
+
+# Rhino関連ファイル
+*.3dmbak
+
+# モデル
+safetensors/
+
+# 成果出力
+genImages/
+prompt/
