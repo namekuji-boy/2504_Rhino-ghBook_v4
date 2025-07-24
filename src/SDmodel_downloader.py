@@ -65,7 +65,7 @@ if __name__ == "__main__":
     url = build_model_url(repo_url, filename)
 
     # 保存先設定
-    model_dir = set_model_path("stable-diffusion-webui", "models", "ControlNet", create=True)
+    model_dir = set_model_path("stable-diffusion-webui", "models", "ControlNet")
     download_path = os.path.join(model_dir, filename)
 
     # インストール
